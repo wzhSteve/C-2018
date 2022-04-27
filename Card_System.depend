@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1530240976 source:f:\codeblocks_file\card_system\class_file.cpp
+	"Class_file.h"
+
+1530068581 f:\codeblocks_file\card_system\class_file.h
+	<string>
+	<iostream>
+	"fun_file.h"
+
+1530152310 f:\codeblocks_file\card_system\fun_file.h
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	"Class_file.h"
+	"Car_information.h"
+
+1530240976 source:f:\codeblocks_file\card_system\fun_file.cpp
+	"fun_file.h"
+
+1530240974 source:f:\codeblocks_file\card_system\main.cpp
+	<iostream>
+	"Class_file.h"
+	"fun_file.h"
+	"Car_information.h"
+
+1530065231 source:f:\codeblocks_file\card_system\car_information.cpp
+	"Car_information.h"
+
+1530154938 f:\codeblocks_file\card_system\car_information.h
+	<iostream>
+	<string>
+	"Class_file.h"
+	"fun_file.h"
+

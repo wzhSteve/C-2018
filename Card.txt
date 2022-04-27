@@ -1,0 +1,10 @@
+		18		 17		 16	  	15	   11	必须按顺序填写
+--------cardnumber---------cardtype--------username--------balance--------cnt
+       XD201800001        LimitCard          王则昊             30          5
+       XD201800002      StudentCard            Anna              6          7
+       XD201800003      StudentCard          时一磊             20          5
+       XD201800004      TeacherCard          赵静怡           NULL          3
+       XD201800005      StudentCard            梅西             96          2
+       XD201800006      StudentCard            天才            996          2
+       XD201800007      StudentCard            张三             38          1
+       XD201800008      StudentCard          丁思雨             28          1
